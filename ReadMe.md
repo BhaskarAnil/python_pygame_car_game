@@ -2,7 +2,10 @@
 
 Welcome to the Car Game built with Python and Pygame! This is a simple arcade-style game where you control a car, avoid oncoming vehicles, and try to achieve the highest score possible.
 
+!['sample game image'](elements_images/game.png)
+
 ## Features
+
 
 - Smooth car movement with keyboard controls
 
