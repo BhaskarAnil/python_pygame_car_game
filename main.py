@@ -13,7 +13,7 @@ def opposite_vehicle(opposite_vehicle_x_position, opposite_vehicle_y_position):
    opposite_vehicle_image = pygame.image.load('elements_images/oppvehicle2.png')
    screen.blit(opposite_vehicle_image, (opposite_vehicle_x_position, opposite_vehicle_y_position))
 
-# function to check collision
+# function to check collision 
 def check_for_collision(positions):                  
    player_position_x = positions['player_x_position']
    player_positon_y = positions['player_y_position']
