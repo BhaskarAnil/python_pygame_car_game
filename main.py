@@ -89,7 +89,7 @@ clock = pygame.time.Clock()  # Initialize clock
 player_x_position =  120  # player initial positions
 player_y_position =  800
 
-# fonts 
+# fonts     
 small_font = pygame.font.SysFont('Consolas',20)
 font = pygame.font.SysFont('Consolas',32)
 
